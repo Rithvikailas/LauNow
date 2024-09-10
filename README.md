@@ -1,5 +1,5 @@
 step 1 :
-create new terninak and type
+create new terminal and type
 npm install
 
 after all the dependencies got installed
